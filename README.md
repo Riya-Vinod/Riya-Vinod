@@ -6,10 +6,12 @@
 <!-- Name -->
 <h1 align="center">Riya Vinod</h1>
 
-<!-- Typing Effect -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9F7AEA&center=true&vCenter=true&lines=Creating+Intelligent+and+Elegant+Solutions;Building+AI+Powered+Applications;Working+on+Computer+Vision+and+Deep+Learning;Designing+Scalable+Full+Stack+Systems" />
-</h3>
+<p align="center">
+<b>Creating Intelligent and Elegant Solutions</b><br>
+Building AI Powered Applications<br>
+Working on Computer Vision and Deep Learning<br>
+Designing Scalable Full Stack Systems
+</p>
 
 ---
 
