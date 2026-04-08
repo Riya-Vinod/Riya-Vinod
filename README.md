@@ -6,13 +6,7 @@
 <!-- Name -->
 <h1 align="center">Riya Vinod</h1>
 
-<p align="center">
-<b>Creating Intelligent and Elegant Solutions</b><br>
-Building AI Powered Applications<br>
-Working on Computer Vision and Deep Learning<br>
-Designing Scalable Full Stack Systems
-</p>
-
+<h3 align="center"><b><span style="color:#9F7AEA;">Building intelligent solutions through AI and Machine Learning</span></b></h3>
 ---
 
 ## ✨ About Me
