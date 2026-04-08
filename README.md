@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=200&section=header&text=Riya%20Vinod&fontSize=40&fontColor=ffffff"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Building%20intelligent%20solutions%20through%20AI%20and%20Machine%20Learning-9F7AEA?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%20Building%20intelligent%20solutions%20through%20AI%20and%20Machine%20Learning-9F7AEA?style=for-the-badge&logoColor=white"/>
 </p>
 ---
 
