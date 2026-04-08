@@ -3,56 +3,73 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=200&section=header&text=Riya%20Vinod&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Riya Vinod</h1>
-<h3 align="center">AI & Machine Learning Enthusiast 🤖</h3>
+<!-- Name -->
+<h1 align="center">Riya Vinod</h1>
+
+<!-- Typing Effect -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9F7AEA&center=true&vCenter=true&lines=Creating+Intelligent+and+Elegant+Solutions;Building+AI+Powered+Applications;Working+on+Computer+Vision+and+Deep+Learning;Designing+Scalable+Full+Stack+Systems" />
+</h3>
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## ✨ About Me
 
-🌱 Exploring **Machine Learning, Deep Learning & AI**  
-🎯 Focused on **Data Science & Real-world AI Projects**  
-💡 Passionate about building intelligent systems  
-📫 Reach me at: **your-email@gmail.com**
+<table align="center">
+<tr>
+<td align="center" width="300">
+
+### 🌟 Curious & Creative  
+Exploring tech and design intersections  
+
+</td>
+
+<td align="center" width="300">
+
+### 🤖 AI & ML Enthusiast  
+Building intelligent systems with ML & AI  
+
+</td>
+
+<td align="center" width="300">
+
+### ☁️ Cloud & Web  
+Exploring AWS & modern web technologies  
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,php,html,css,js,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,html,css,js,react,mysql,c,cpp" />
 </p>
 
 ---
 
-## 🧠 AI/ML Skills
-- Machine Learning Algorithms  
-- Deep Learning (CNN, ANN, U-Net)  
-- Data Analysis & Visualization  
-- Model Optimization  
 
----
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+## 🚀 Projects
 
----
+- 🛍️ **E-commerce Website – G Fashions**  
+  Full-stack online shopping platform  
 
-## 🔥 Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+- 🌍 **LiDAR-based Classification & Spatial Mapping of Poles**  
+  Using 360° panorama validation techniques  
 
----
+- 🌡️ **Unsupervised Deep Learning for Thermal Anomaly Detection**  
+  Detection of man-made anomalies in thermal imaging  
 
-## 🌊 Projects
-- 🌿 Seagrass Mapping using Deep Learning  
-- 🎓 Student Performance Prediction  
-- 🗣️ AI Voice Assistant  
+- 📝 **Full Stack Complaint Management System**  
+  End-to-end system for issue tracking and resolution  
 
 ---
 
 ## 🌐 Connect
-<p>
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/riya-vinod-440598289/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:riyavinod2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
