@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=200&section=header&text=Riya%20Vinod&fontSize=40&fontColor=ffffff"/>
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?color=9F7AEA&center=true&vCenter=true&size=22&pause=100000&width=700&lines=🚀+Building+intelligent+solutions+through+AI+and+Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?color=9F7AEA&center=true&vCenter=true&size=22&pause=10000&width=700&lines=+Building+intelligent+solutions+through+AI+and+Machine+Learning" />
 ---
 
 ## ✨ About Me
