@@ -2,11 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=200&section=header&text=Riya%20Vinod&fontSize=40&fontColor=ffffff"/>
 </p>
-
-<!-- Name -->
-<h1 align="center">Riya Vinod</h1>
-
-<h3 align="center"><b><span style="color:#9F7AEA;">Building intelligent solutions through AI and Machine Learning</span></b></h3>
+<h3 align="center"><b>🚀 Building intelligent solutions through AI and Machine Learning</b></h3>
 ---
 
 ## ✨ About Me
