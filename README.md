@@ -2,15 +2,18 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=200&section=header&text=Riya%20Vinod&fontSize=40&fontColor=ffffff"/>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/%20Building%20intelligent%20solutions%20through%20AI%20and%20Machine%20Learning-9F7AEA?style=for-the-badge&logoColor=white"/>
 </p>
+
 ---
 
 ## ✨ About Me
 
 <table align="center">
 <tr>
+
 <td align="center" width="300">
 
 ### 🌟 Curious & Creative  
@@ -31,38 +34,44 @@ Building intelligent systems with ML & AI
 Exploring AWS & modern web technologies  
 
 </td>
+
 </tr>
 </table>
 
 ---
 
 ## 🚀 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,html,css,js,react,mysql,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,html,css,js,react,mysql,c,cpp,fastapi,mongodb,nodejs,express" />
 </p>
 
 ---
 
-
-
-
 ## 🚀 Projects
 
+- 🧠 **AURA – Multimodal AI Mental Health Platform**  
+  AI-powered platform integrating LLMs, NLP, speech recognition, and facial emotion detection with real-time emotion-aware visualizations.  
+
+- 🌍 **Localoop – Hyperlocal Sharing Platform**  
+  AI-powered borrowing and lending platform with geolocation-based item discovery and sustainable resource sharing.  
+
 - 🛍️ **E-commerce Website – G Fashions**  
-  Full-stack online shopping platform  
+  Full-stack online shopping platform.  
 
 - 🌍 **LiDAR-based Classification & Spatial Mapping of Poles**  
-  Using 360° panorama validation techniques  
+  Using 360° panorama validation techniques.  
 
 - 🌡️ **Unsupervised Deep Learning for Thermal Anomaly Detection**  
-  Detection of man-made anomalies in thermal imaging  
+  Detection of man-made anomalies in thermal imaging.  
 
 - 📝 **Full Stack Complaint Management System**  
-  End-to-end system for issue tracking and resolution  
+  End-to-end system for issue tracking and resolution.  
 
 ---
 
 ## 🌐 Connect
+
 <p align="center">
 <a href="https://www.linkedin.com/in/riya-vinod-440598289/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:riyavinod2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
